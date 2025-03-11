@@ -1,5 +1,6 @@
 # Stock Market Real-Time Data Pipeline with Apache Kafka & Cassandra
 -By Tharun Rajeev
+
 This project focuses on retrieving real-time stock market data using Python and storing it in a Cassandra database via Apache Kafka. The data is processed with Apache Kafka on AWS EC2 and then stored in a local Cassandra server.
 
 ## Key Features
